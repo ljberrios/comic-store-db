@@ -27,7 +27,7 @@ They would like to store the information of the following: comics, clients, subs
 ### Matrix Diagram
 First, the entities to be stored and their relationships should be identified and written down (even if they could change). The following picture shows a matrix diagram containing the possible entities to be stored and their relationships, without showing a lot of detail: 
 
-![Alt text](<Proy-Final-Luis J. Berrios Negron-802-18-1607-Matriz.PNG>)
+![Matrix Diagram](<matrix.png>)
 
 1:1 represents a one-to-one relationship. 1:M represents a one-to-many relationship. This diagram doesn't have any many-to-many relationships because they've already been resolved through associative entities.
 
@@ -36,7 +36,7 @@ Keep in mind that this is similar to a draft when writing down an essay. Some th
 ### Entity Relationship Diagram (ERD)
 Next, we identify entity attributes, mutually exclusive relationships and supertype/subtype relationships. The following picture shows an entity relationship diagram containing the entities to be stored, their attributes, and their relationships:
 
-![Alt text](<Proy-Final-Luis J. Berrios Negron-802-18-1607-ERD.png>)
+![Entity Relationship Diagram](<erd.png>)
 
 As opposed to a matrix diagram, an entity relationship diagram shows more detail. Also, the entities, attributes, and relationships in it should be the ones used in the database implementation.
 
